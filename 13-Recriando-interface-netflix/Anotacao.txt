@@ -1,0 +1,14 @@
+Utilizando Jquerycom Owl Carousel 2
+https://owlcarousel2.github.io/OwlCarousel2/
+
+1° Faz o download no site acima
+2º Na pasta do OwlCarousel > docs> assets > vendors
+* pegar o arquivo jquery.min.js
+3° Na pasta do OwlCarousel > docs > assets > owlcarousel
+* Pegar o aquirvo 'owl.carousel.min.js'
+4º Na pasta owlCarousel > dist > assets
+* pegar os arquivos 'owl.carousel.min.css' e 'owl.theme.default.min.css'
+
+* E uma boa prática que os os scripts javascript fique sempre no final do body do index.html e as folhas de estilo stylesheet fiquem no head = cabeça antes do tittle = titulo
+
+$ no css significa jquery, abre espaço para colocarmos uma serie de elementos em tela.
